@@ -1,19 +1,16 @@
 {
   "name": "cozy-christmas",
-  "displayName": "Cozy Christmas",
-  "description": "theme extentionCozy Christmas vscode extention",
-  "version": "1.0.2",
+  "displayName": "cozy christmas",
+  "description": "vscode christmas theme",
+  "version": "1.0.3",
   "publisher": "muyJason",
-  "author": {
-    "name": "muyJason",
-    "url": "https://github.com/JasonIsHydrated"
-},
-"repository": {
-    "url": "https://github.com/JasonIsHydrated/cozy-christmas"
-},
+  "icon": "iamges/Logo.png",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "categories": [
+    "Themes"
+  ],
   "keywords": [
     "theme",
     "dark",
@@ -24,13 +21,10 @@
     "winter",
     "snow"
   ],
-  "categories": [
-    "Themes"
-  ],
   "contributes": {
     "themes": [
       {
-        "lable": "Cozy Christmas",
+        "label": "Cozy Christmas",
         "uiTheme": "vs-dark",
         "path": "./themes/Cozy Christmas-color-theme.json"
       }
