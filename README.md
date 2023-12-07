@@ -3,7 +3,7 @@
 
 # 🎄 Cozy Christmas 🎄
 
-![image1](images/closeupImpr.png)
+<img src="images/closeupImpr.png" alt="image2" width="900"/>
 
 ## A Visual Studio Code theme 🌠
 

@@ -4,13 +4,16 @@
   "description": "vscode christmas theme",
   "version": "1.0.4",
   "publisher": "muyJason",
-  "icon": "iamges/Logo.png",
+  "icon": "images/Logo.png",
   "engines": {
     "vscode": "^1.84.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/JasonIsHydrated/cozy-christmas"
+  },
   "keywords": [
     "theme",
     "dark",
