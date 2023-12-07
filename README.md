@@ -10,6 +10,8 @@
 ![downloads](https://img.shields.io/visual-studio-marketplace/d/muyJason.cozy-christmas?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072) 
 ![installs](https://img.shields.io/visual-studio-marketplace/i/muyJason.cozy-christmas?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=b43b2b) 
 ![rating](https://img.shields.io/visual-studio-marketplace/r/muyJason.cozy-christmas?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)
+![Versio](https://img.shields.io/github/package-json/v/JasonIsHydrated/cozy-christmas/master?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=a2E6FF)
+
 
 ### 🍪 Cozy pastel font colors 
 
