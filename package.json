@@ -1,11 +1,22 @@
 {
   "name": "cozy-christmas",
-  "displayName": "cozy christmas",
+  "displayName": "Cozy Christmas",
   "description": "theme extentionCozy Christmas vscode extention",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "CozyChristmas",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "keywords": [
+    "theme",
+    "dark",
+    "christmas",
+    "cozy",
+    "soothing",
+    "warm",
+    "winter",
+    "snow"
+  ],
   "categories": [
     "Keymaps"
   ],
