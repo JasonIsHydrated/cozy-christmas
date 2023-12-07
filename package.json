@@ -1,0 +1,20 @@
+{
+  "name": "cozy-christmas",
+  "displayName": "cozy christmas",
+  "description": "theme extentionCozy Christmas vscode extention",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Keymaps"
+  ],
+  "contributes": {
+    "keybindings": [
+      {
+        "key": "ctrl+.",
+        "command": "workbench.action.showCommands"
+      }
+    ]
+  }
+}
